@@ -1,0 +1,67 @@
+/* TODO header*/
+
+
+/* TODO nav*/
+
+
+/* TODO section*/
+
+
+/* description */
+
+.description {
+    font-size: 15px;
+    color: gray;
+    text-decoration: none;
+    line-height: 1;
+}
+
+
+/* TODO image-block*/
+
+
+/* more button */
+
+.btn {
+    display: block;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.btn-more:link {
+    color: lightcoral;
+    background-color: whitesmoke;
+}
+
+.btn-more:visited {
+    color: firebrick;
+}
+
+.btn-more:hover {
+    color: whitesmoke;
+    background-color: lightcoral;
+}
+
+.btn-more:active {
+    color: firebrick;
+}
+
+.btn-more {
+    border: 1px solid firebrick;
+}
+
+.image-block {
+    width: calc(33.33% - 10px);
+    float: left;
+    padding: 10px;
+    border: 2px solid olive;
+    margin: 5px;
+}
+
+.thumbnail {
+    width: 100%;
+}
