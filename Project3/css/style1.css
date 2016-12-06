@@ -1,5 +1,14 @@
 /* TODO header*/
 
+* {
+    box-sizing: border-box;
+}
+
+.backgound {
+    background-image: url(https://source.unsplash.com/400x300?sky);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 /* TODO nav*/
@@ -92,10 +101,4 @@
 
 .title {
     break-before: left;
-}
-
-.backgound {background-image: url(https://source.unsplash.com/400x300?sky);
-    background-repeat: no-repeat;
-    background-size: cover;
-    
 }

@@ -21,5 +21,23 @@ article,
 aside,
 nav {
     padding: 0;
-    margin: : 0;
+    margin: 0;
+}
+
+.thumbnail {
+    border: 2px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail .caption h3 {
+    font-size: 1em;
+}
+
+.thumbnail .caoption p {
+    font-size: 0.75em;
 }
