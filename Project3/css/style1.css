@@ -1,6 +1,7 @@
 /* TODO header*/
 
 
+
 /* TODO nav*/
 
 
@@ -54,6 +55,29 @@
     border: 1px solid firebrick;
 }
 
+.btn-link:link {
+    color: navy;
+}
+
+.btn-link:visited {
+    color: darkgray;
+}
+
+.btn-link:hover {
+    color: navy;
+    background-color: whitesmoke;
+}
+
+.btn-link:active {
+    color: skyblue;
+}
+
+.btn-link {
+    border: 1px solid navy;
+    float: left;
+    margin: 0px calc(20% - 150px) 0px 50px;
+}
+
 .image-block {
     width: calc(33.33% - 10px);
     float: left;
@@ -64,4 +88,14 @@
 
 .thumbnail {
     width: 100%;
+}
+
+.title {
+    break-before: left;
+}
+
+.backgound {background-image: url(https://source.unsplash.com/400x300?sky);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
