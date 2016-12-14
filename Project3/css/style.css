@@ -1,0 +1,97 @@
+header img {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+header {
+    border-bottom: 2px solid firebrick;
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+sub {
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.container p {
+    color: gray;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section {
+    border-top: 2px solid gray;
+}
+
+h3 {
+    border-bottom: 2px solid firebrick;
+    width: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.btn {
+    display: block;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.btn-learn {
+    width: 200px;
+    border: 1px solid firebrick;
+}
+
+.btn-more:link {
+    color: lightcoral;
+    background-color: whitesmoke;
+}
+
+.btn-more:visited {
+    color: firebrick;
+}
+
+.btn-more:hover {
+    color: whitesmoke;
+    background-color: lightcoral;
+}
+
+.btn-more:active {
+    color: firebrick;
+}
+
+.btn-more {
+    border: 1px solid firebrick;
+}
+
+.image-block {
+    padding: 20px;
+    border: 2px solid olive;
+    margin: 5px;
+}
+
+.image-block h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.image-block p {
+    color: gray;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
