@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://lh6.googleusercontent.com/UaNYBwyOXKGWEIO7uhEokIpM-IJSssT0rH4pN4fuV9wlxGphltZ4xfseyQ6MuLUAwBAO3n-I6uk1M1k=w1920-h880);
+    background-image: url(http://shortiedesigns.com/wp-content/uploads/2016/01/brisbane-web-design-hero-v7-1030x441.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,30 +8,30 @@ h1 {
     margin: 3%;
 }
 
-list {
-    list-style: none;
+p {
+    margin: 3%;
+    font-size: 24px;
+}
+
+li {
+    margin: 50px auto;
+    padding: 20px;
     list-style-type: none;
-    list-style-position: inside;
+    padding-left: 45%;
 }
 
 .btn {
+    width: 300px;
     font-size: 20px;
-    margin: 5% auto;
-    border: 3px solid gray;
+    border: 3px solid black;
     border-style: dashed;
     border-radius: 5px;
-    width: 250px;
-    height: 70px;
     text-align: center;
     padding: 20px;
     text-decoration: none;
     font-weight: 700;
-    word-spacing: 5px;
+    letter-spacing: 5px;
     color: gray;
-}
-
-.btn a {
-    text-decoration: none;
 }
 
 .btn:link {
@@ -43,11 +43,11 @@ list {
 }
 
 .btn:hover {
-    background-color: whitesmoke;
-    color: gray;
+    background-color: lightgray;
+    color: lightseagreen;
 }
 
 .btn:active {
     background-color: aliceblue;
-    color: black;
+    color: cyan;
 }
