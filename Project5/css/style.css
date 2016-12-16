@@ -1,3 +1,18 @@
+.home {
+    width: 90px;
+    height: 90px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color: deeppink;
+    border-radius: 60px;
+    color: aliceblue;
+    text-align: center;
+    padding: 17px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 .container {
     overflow: auto;
 }
