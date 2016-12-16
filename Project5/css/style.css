@@ -27,6 +27,7 @@
 }
 
 .home {
+    font-family: sans-serif;
     width: 70px;
     height: 70px;
     position: fixed;
@@ -36,10 +37,9 @@
     border-radius: 60px;
     color: aliceblue;
     text-align: center;
-    padding: 18px;
-    font-weight: 600;
+    padding: 17px;
+    font-weight: bold;
     text-decoration: none;
-    font-size: 22px;
 }
 
 .content {
