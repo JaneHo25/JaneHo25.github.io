@@ -2,6 +2,7 @@ body {
     background-image: url(http://shortiedesigns.com/wp-content/uploads/2016/01/brisbane-web-design-hero-v7-1030x441.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100%;
 }
 
 h1 {
